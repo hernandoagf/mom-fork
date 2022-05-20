@@ -11,3 +11,8 @@ description: >-
 * [Technical](https://docs.makerdao.com/) @ docs.makerdao.com
 * [Collateral Onboarding](https://collateral.makerdao.com/) @ collateral.makerdao.com
 * [MIPs Portal](https://mips.makerdao.com/) @ mips.makerdao.com
+
+Test MathJax
+$$
+\boxed { f(a)_1 = \frac 1 {2πi} \oint_γ \frac {f(z)} {z−a} dz }
+$$
